@@ -71,3 +71,16 @@ coverage/
 # VITE
 # ===================================
 dist/
+
+# ===================================
+# DOCUMENTAÇÃO
+# ===================================
+ANALISE_PADROES_INDUSTRIA.md
+GUIA_PRATICO_CORRECOES.md
+IMPLEMENTACOES_REALIZADAS.md
+INDICE_DOCUMENTACAO.md
+PANORAMA_GERAL.md
+PLANO_IMPLEMENTACAO.md
+README_RESUMO.md
+RESUMO_VISUAL.md
+STATUS_FINAL.md
